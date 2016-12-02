@@ -1,0 +1,18 @@
+This is a small list of useful git commands
+
+To start a fresh local copy of a project residing in github repository 
+	git clone https://github.com/raspberrypieman/hello-world.git
+
+Or if you already have the project cloned but want the latest version
+	git pull <filename>
+
+Make any changes you need to files in local directory, then check status
+	git status
+
+When you need to upload changes, first use commit (-a for all files)
+	git commit -a -m "Helpful comments about changes"
+
+Then to make permanent changes to branch
+	git push origin master
+
+
