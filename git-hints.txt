@@ -18,4 +18,5 @@ When you need to upload changes, first use commit (-a for all files)
 Then to make permanent changes to branch
 	git push origin master
 
-
+To get a list of changes (use 'q' to exit the list)
+	git log
