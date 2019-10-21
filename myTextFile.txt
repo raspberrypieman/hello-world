@@ -1,0 +1,3 @@
+# myTextFile.txt
+This is just some text
+The quicl brown fox jumps over the lazy dog.
