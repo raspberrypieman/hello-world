@@ -1,5 +1,7 @@
 # Syntax-Highlighting
 
+see more about it here: https://guides.github.com/features/mastering-markdown/
+
 Headers
 # This is an h1 tag
 ## This is an h2 tag
