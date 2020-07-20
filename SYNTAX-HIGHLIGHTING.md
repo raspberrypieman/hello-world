@@ -55,10 +55,12 @@ function fancyAlert(arg) {
 }
 ```
 
-Here’s an example of Python code without syntax highlighting:
+Here’s an example of Python code with syntax highlighting:
+```python
 def foo():
     if not bar:
         return True
+```
 
 Task Lists
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
@@ -76,4 +78,3 @@ Content in the first column | Content in the second column
 
 Strikethrough
 Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
-
